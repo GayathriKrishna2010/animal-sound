@@ -1,0 +1,21 @@
+.copy_right_footer {
+    position:fixed;
+    color:#6c757d;
+    bottom:0;
+    width:100%;
+    font-size:20;
+    background-color:aliceblue;
+    line-height:3;
+    text-align:center;
+    text-shadow:5px,5px,5px(#404346);
+}
+body {
+    background:linear-gradient(to right top , #7a85e9 , #ddd9ee , #ebc1e9 ,#735df0, #6422df)
+}
+.btn_start {
+    background-color:aquamarine;
+    font-size:12;
+}
+.header_div {
+    font-family: Comic Neue;
+}
